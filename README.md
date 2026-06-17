@@ -9,7 +9,6 @@ Actualmente, estoy convergiendo toda mi experiencia operativa hacia el ecosistem
 ### 🛠️ Tecnologías y Competencias
 
 * **Lenguajes y Desarrollo:** Python (Manipulación de datos / ETL básico), Fundamentos de SQL y Modelado de Bases de Datos Relacionales.
-* **Soporte y Redes:** Protocolos de red (TCP/IP, DHCP, DNS), comandos de diagnóstico (Ping, Ipconfig) y Mantenimiento de Cómputo.
 * **Seguridad Integral:** Gestión de identidades y accesos (IAM), monitoreo de plataformas críticas 24x7 y mitigación de riesgos.
 
 ---

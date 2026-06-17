@@ -15,7 +15,7 @@ Actualmente, estoy convergiendo toda mi experiencia operativa hacia el ecosistem
 
 ### 🚀 Mis Objetivos Actuales
 * 🎓 Culminar con éxito mi tecnólogo en Análisis y Desarrollo de Software en el SENA.
-* 💻 Desarrollar proyectos prácticos y scripts de automatización utilizando Python y SQL.
+* 💻 Desarrollar proyectos prácticos y scripts de automatización utilizando Python,JavaScript, HTML5, CSS y SQL.
 * 🔒 Consolidar mi perfil técnologico para aportar valor en áreas de Soporte TI, Help Desk y Seguridad Convergente.
 
 ---

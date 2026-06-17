@@ -14,9 +14,9 @@ Actualmente, estoy convergiendo toda mi experiencia operativa hacia el ecosistem
 ---
 
 ### 🚀 Mis Objetivos Actuales
-* **Monitoreo y Operaciones 24x7:** Control de plataformas críticas en tiempo real, gestión y documentación de incidentes, manejo de sistemas de alertas y cumplimiento estricto de protocolos de seguridad y SLAs.
-* **Seguridad y Control de Accesos:** Gestión de identidades y accesos (IAM), mitigación de riesgos de ingeniería social, control de activos y auditoría de procedimientos operativos.
-* **Desarrollo y Datos (SENA):** Lógica de programación estructurada con Python, manipulación básica de datos, y diseño y consultas en Bases de Datos Relacionales (SQL).
+* 🎓 Culminar con éxito mi tecnólogo en Análisis y Desarrollo de Software en el SENA.
+* 💻 Desarrollar proyectos prácticos y scripts de automatización utilizando Python y SQL.
+* 🔒 Consolidar mi perfil técnologico para aportar valor en áreas de Soporte TI, Help Desk y Seguridad Convergente.
 
 ---
 

@@ -8,9 +8,14 @@ Actualmente, estoy convergiendo toda mi experiencia operativa hacia el ecosistem
 
 ### 🛠️ Tecnologías y Competencias
 
-* **Lenguajes y Desarrollo:** Python (Manipulación de datos / ETL básico), Fundamentos de SQL y Modelado de Bases de Datos Relacionales.
-* **Seguridad Integral:** Gestión de identidades y accesos (IAM), monitoreo de plataformas críticas 24x7 y mitigación de riesgos.
+### Lenguajes y Desarrollo
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Bases de Datos e Infraestructura
+![SQL](https://img.shields.io/badge/sql-%2300758F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white)
+
+### Seguridad Integral y Monitoreo
+* **Operaciones:** Gestión de identidades y accesos (IAM), monitoreo de plataformas críticas 24x7 y mitigación de riesgos.
 ---
 
 ### 🚀 Mis Objetivos Actuales
